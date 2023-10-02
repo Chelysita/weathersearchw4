@@ -11,7 +11,7 @@ function App() {
         <h1>Weather App</h1>
 
         <WeatherSearch />
-        <a href="https://github.com/Chelysita/week_4_hmw.git">
+        <a href="https://github.com/Chelysita/weathersearchw4.git">
           Code shared on Github
         </a>
       </header>
