@@ -1,5 +1,4 @@
 import "./App.css";
-import { createRoot } from "react-dom/client";
 import WeatherSearch from "./WeatherSearch";
 
 import "./App.css";
